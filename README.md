@@ -44,7 +44,7 @@ IDE (IntelliJ/Eclipse/VSCode)
 
 Clone the repo
 
-git clone https://github.com/Kunal8577/java-backend-zest.git
+git clone https://github.com/Kunal8577/Zest-backend-assignment-.git
 cd java-backend-zest
 
 Configure MySQL
